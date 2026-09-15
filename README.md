@@ -8,6 +8,7 @@ Python 爬虫将 books.toscrape.com 全站 1000 本书数据直接写入 MySQL �
 - requests / BeautifulSoup（爬取解析）
 - pymysql（数据库驱动）
 - MySQL 8（数据存储）
+- pandas (数据清洗）
 
 ## 工程特点
 
